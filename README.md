@@ -1,4 +1,4 @@
-# <h1>
+<h1>
    React Native Smart Home App
 </h1>
 
